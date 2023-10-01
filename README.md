@@ -11,7 +11,7 @@ The project is organized into several source code files, each containing specifi
 ## Source Files:
 new_printf.c: The main entry point of the custom printf function, which processes the format string and calls relevant functions to handle format specifiers.
 
-functions.c, functions1.c, functions2.c: Files containing functions for handling various format specifiers (e.g., %c, %s, %d, %x, etc.).
+needed_functions_0.c, needed_functions_1.c, needed_functions_2.c: Files containing functions for handling various format specifiers (e.g., %c, %s, %d, %x, etc.).
 
 get_flags.c, get_width.c, get_precision.c, get_size.c: Files responsible for extracting formatting information (flags, width, precision, size) from the format string.
 
